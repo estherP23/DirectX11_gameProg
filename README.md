@@ -1,8 +1,12 @@
-# 🏠 3D Room Simulation with Cat CCTV  
+# 🏠 DirectX11_3D Room Simulation with Cat CCTV  
 
 ## 📌 프로젝트 개요  
 **이 프로젝트는 방 안에 3D 오브젝트를 배치하고, 고양이 CCTV를 통해 360도 시점을 조작할 수 있는 DirectX 기반의 그래픽스 렌더링 실습입니다.**  
 고양이 카메라를 활용하여 방 내부를 자유롭게 둘러볼 수 있으며, 다양한 조명 및 텍스처 효과를 적용하여 몰입감을 높였습니다.
+
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/b33f59fc-5b52-4466-8007-fa5cb56407ea" /> <img width="203" alt="image" src="https://github.com/user-attachments/assets/5046c407-7cbf-465d-a531-163547f04b4f" />
+
+
 
 ## 🎮 주요 기능  
 - 🏠 **360도 시점 이동:** 기본 카메라 및 고양이 카메라를 이용해 방 내부를 자유롭게 관찰  
