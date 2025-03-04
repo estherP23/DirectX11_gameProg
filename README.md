@@ -42,7 +42,7 @@
 - **Phong 및 Blinn-Phong 조명 모델을 이용한 광원 효과 구현**  
 
 ## 📸 시연 영상  
-🔗 [시연 영상 보기](https://www.youtube.com/watch?v=XL5PcOEKHUI)  
+🔗 [시연 영상 보기]([https://www.youtube.com/watch?v=XL5PcOEKHUI](https://youtu.be/94i0vJFU47c))  
 
 ## 🚀 실행 방법  
 1. **프로젝트 클론:**  
